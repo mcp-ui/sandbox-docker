@@ -3,8 +3,10 @@ Docker image for generic sandbox with Node.js and uv package manager.
 
 ## Features
 
-- Latest Node.js
+- Node.js (slim version)
 - [uv package manager](https://docs.astral.sh/uv/getting-started/installation/)
+- Python 3 and git for development
+- Optimized for size (440MB)
 
 ## Usage
 
